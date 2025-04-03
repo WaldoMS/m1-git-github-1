@@ -29,4 +29,9 @@ git add index.html
 git commit -m "configuracion inicial de git"
 git push origin master
 ```
-Para clonar se utiliza C:\>git clone https://github.com/WaldoMS/m1-git-github-1.git
+##  Clonar 
+
+- Para clonar se utiliza 
+```
+C:\>git clone https://github.com/WaldoMS/m1-git-github-1.git
+```
